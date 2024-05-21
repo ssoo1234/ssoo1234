@@ -32,8 +32,12 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hw_seho/"></a>
     </div>
     <br> 
-    <div align= "center">  </div> 
+<!--     <div align= "center">
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoopp1433)](https://solved.ac/ssoopp1433/)
+    </div> -->
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssoopp1433)](https://solved.ac/ssoopp1433/)
 
 <!--
 **ssoo1234/ssoo1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
