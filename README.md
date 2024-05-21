@@ -18,7 +18,6 @@
     </div>
     <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Now Learning </h2>
-        <br> 
         <div style="margin: 0 auto; text-align: center;" align= "center">
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
@@ -26,7 +25,6 @@
     </div>
     <div align= "center">
         <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact me </h2>
-        <br> 
     <div align= "center"> 
         <a href=mailto:saeho0403@gmail.com> 
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saeho0403@gmail.com"></a>
@@ -35,7 +33,7 @@
     </div>
     <br> 
     <div align= "center">  </div> 
-    </div>
+</div>
 
 <!--
 **ssoo1234/ssoo1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
